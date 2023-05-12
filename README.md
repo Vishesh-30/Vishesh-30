@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://visheshphutela.web.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fworld-wide-web_1006771&psig=AOvVaw3ADLffKDHd53cvauuUs-4e&ust=1683968933811000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjU6aK37_4CFQAAAAAdAAAAABA_" alt="https://visheshphutela.web.app/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishesh-phutela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishesh-phutela/" height="30" width="40" /></a>
-<a href="https://visheshphutela.web.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website" alt="https://visheshphutela.web.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
